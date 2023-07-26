@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="movie_title">Title</string>
+    <string name="movie_release_date">Release Date</string>
+    <string name="movie_rating">Rating</string>
+    <string name="item_image_description">Item movie image</string>
+
+    <string name="image_url">https://image.tmdb.org/t/p/original</string>
+
+    <string name="dialog_loading">Loading…</string>
+</resources>

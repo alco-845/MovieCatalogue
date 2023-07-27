@@ -10,6 +10,7 @@
     <string name="movie_overview">Overview</string>
     <string name="movie_image_description">Movie image</string>
     <string name="favorite_button_description">Favorite button</string>
+    <string name="back_button_description">Back button</string>
 
     <string name="image_url">https://image.tmdb.org/t/p/original</string>
 

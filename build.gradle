@@ -14,17 +14,17 @@ buildscript {
     ext.room_version = "2.5.2"
 
     ext.retrofit_version = "2.9.0"
-    ext.logging_interceptor_version = '4.9.0'
+    ext.logging_interceptor_version = '4.9.3'
 
     ext.kotlin_coroutines_version = "1.6.4"
-    ext.lifecycle_version = "2.2.0"
+    ext.lifecycle_version = "2.6.1"
 
     ext.koin_version = "3.3.2"
 
     ext.leakcanary_version = "2.10"
 
     ext.sqlcipher_version = "4.4.0"
-    ext.sqlite_version = "2.1.0"
+    ext.sqlite_version = "2.3.1"
 }
 
 plugins {
